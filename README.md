@@ -32,7 +32,3 @@ A interface conta com imagens ilustrativas e ícones:
 - **Font Awesome 5.3.1**
 - **JavaScript (para interações do Bootstrap)**
 
----
-
-## 📂 Estrutura de Arquivos
-
